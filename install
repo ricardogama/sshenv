@@ -1,0 +1,2 @@
+#!/bin/sh
+cd /usr/local/bin && curl -s -O -L https://github.com/ricardogama/sshenv/releases/download/1.0.0/sshenv && chmod 700 sshenv

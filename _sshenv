@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e "-----BEGIN RSA PRIVATE KEY-----\n$(echo $(</dev/stdin) | sed 's/^-.*- //;s/ -.*//;y/ /\n/')\n-----END RSA PRIVATE KEY-----"

@@ -1,0 +1,19 @@
+{
+  "name": "sshenv",
+  "version": "1.0.0",
+  "description": "Format SSH keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardogama/sshenv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardogama/sshenv/issues"
+  },
+  "homepage": "https://github.com/ricardogama/sshenv#readme"
+}
